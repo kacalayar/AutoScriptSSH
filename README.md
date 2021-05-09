@@ -2,6 +2,9 @@
 Personal use !
 Jangan dijual !
 
+# OS Supported
+- Debian 9 & 10
+- Ubuntu 18.04 & Ubuntu 20.04
 
 # Feature
 - SSH + OpenVPN

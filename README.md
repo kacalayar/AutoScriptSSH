@@ -26,4 +26,8 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 # Thanks you
 
-If you like this script u can support horras by PM Telegram
+If you like this script u can support horras by PM Telegram Here 
+https://t.me/horasss or @horasss
+
+# Im Wrong?
+Please tell me on telegram @NetzChatBot / https://t.me/NetzChatBot

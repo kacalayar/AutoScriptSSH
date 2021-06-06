@@ -7,7 +7,7 @@ Jangan dijual !
 - Ubuntu 18.04 & Ubuntu 20.04
 
 # Feature
-- SSH + OpenVPN
+- SSH (Include WebSocket) + OpenVPN
 - V2Ray Service (Vmess,Vless,Trojan With TLS & NON TLS)
 - Wireguard
 - L2TP
@@ -21,6 +21,7 @@ apt-get update && apt-get upgrade -y && update-grub
 reboot
 
 apt install wget -y
+
 wget https://raw.githubusercontent.com/adisubagja/AutoScriptSSH/master/setup.sh && chmod +x setup.sh && ./setup.sh
 
 # Credits :

@@ -17,10 +17,10 @@ Jangan dijual !
 
 # Installasi
 apt-get update && apt-get upgrade -y && update-grub
-apt install wget -y
 
 reboot
 
+apt install wget -y
 wget https://raw.githubusercontent.com/adisubagja/AutoScriptSSH/master/setup.sh && chmod +x setup.sh && ./setup.sh
 
 # Credits :

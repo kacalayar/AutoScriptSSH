@@ -5,6 +5,12 @@ Jangan dijual !
 # OS Supported
 - Debian 9 & 10
 - Ubuntu 18.04 & Ubuntu 20.04
+- Ubuntu 21 (Port 80,8xx,8xxx Not Working Port Issue)
+
+# Minimum Spec
+- RAM 1GB (2GB For Better Optimization on Ubuntu)
+- CPU 1 (Installation long time but fine)
+- Disk 30GB (For 10User)
 
 # Feature
 - SSH (Include WebSocket) + OpenVPN

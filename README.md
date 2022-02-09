@@ -15,11 +15,16 @@ Jangan dijual !
 # Feature
 - SSH (Include WebSocket) + OpenVPN
 - V2Ray Service (Vmess,Vless,Trojan With TLS & NON TLS)
+- V2Ray GRPC Enabled (Vmess,Vless,Trojan Port 443 TLS Mode)
 - Wireguard
 - L2TP
 - SSTP
 - PPTP
 - Etc
+
+# Known Bugs
+- Port Forced 443 GRPC Mode
+- Something Need Fix (Soon)
 
 # Installasi
 apt-get update && apt-get upgrade -y && update-grub
@@ -28,7 +33,7 @@ reboot
 
 apt install wget -y
 
-wget https://raw.githubusercontent.com/adisubagja/AutoScriptSSH/master/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/adisubagja/AutoScriptSSH/master/adi.sh && chmod +x adi.sh && ./adi.sh
 
 # Credits :
 - Horras

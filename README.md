@@ -3,8 +3,8 @@ Personal use !
 Jangan dijual !
 
 # OS Supported
-- Debian 9 & 10
-- Ubuntu 18.04 & Ubuntu 20.04
+- Debian 9 & 10 (Untested)
+- Ubuntu 18.04 & Ubuntu 20.04 (Tested)
 - Ubuntu 21 (Port 80,8xx,8xxx Not Working Port Issue)
 
 # Minimum Spec

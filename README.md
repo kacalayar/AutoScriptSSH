@@ -33,7 +33,7 @@ reboot
 
 apt install wget -y
 
-wget https://raw.githubusercontent.com/adisubagja/AutoScriptSSH/master/adi.sh && chmod +x adi.sh && ./adi.sh
+wget https://raw.githubusercontent.com/kacalayar/AutoScriptSSH/master/adi.sh && chmod +x adi.sh && ./adi.sh
 
 # Credits :
 - Horras
